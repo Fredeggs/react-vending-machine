@@ -1,0 +1,10 @@
+.VendingMachine {
+    height: 35rem;
+    background-image: url("https://media.istockphoto.com/id/836212440/vector/orange-automatic-vending-machine-isolated-vector-illustration.jpg?s=612x612&w=0&k=20&c=XS_8pQuoSwS6jw9Vw2f70Lr16H9KI9LdjvnB0fylKRw=");
+}
+
+.VendingMachine nav a {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
